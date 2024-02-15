@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: black;
+}
+
+#root {
+    /* border: 2px solid white; */
+}
+
+section button {
+    font-weight: 700;
+    font-size: 1.5rem;
+    background-size: cover;
+    aspect-ratio: 1 / 1;
+}
+
+button.bird {
+    background-image: url('/bird.png');
+}
+
+button.camel {
+    background-image: url('/camel.png');
+}
+
+button.fish {
+    background-image: url('/fish.png');
+}
+
+button.fox {
+    background-image: url('/fox.png');
+}
+
+button.mouse {
+    background-image: url('/mouse.png');
+}
+
+button.seal {
+    background-image: url('/seal.png');
+}
+
+button.origami {
+    background-image: url('/origami.png');
+}
+
+button.aries {
+    background-image: url('/aries.png');
+}
+
+button.cat {
+    background-image: url('/cat.png');
+}
+
+button.crab {
+    background-image: url('/crab.png');
+}
+
+button.dinosaur {
+    background-image: url('/dinosaur.png');
+}
+
+button.dog {
+    background-image: url('/dog.png');
+}
+
+button.dragon {
+    background-image: url('/dragon.png');
+}
+
+button.elephant {
+    background-image: url('/elephant.png');
+}
+
+button.frog {
+    background-image: url('/frog.png');
+}
+
+button.penguin {
+    background-image: url('/penguin.png');
+}
+
+button.pig {
+    background-image: url('/pig.png');
+}
+
+button.pinwheel {
+    background-image: url('/pinwheel.png');
+}
+
+button.rabbit {
+    background-image: url('/rabbit.png');
+}
+
+button.rooster {
+    background-image: url('/rooster.png');
+}
+
+button.ship {
+    background-image: url('/ship.png');
+}
+
+button.squirrel {
+    background-image: url('/squirrel.png');
+}
+
+button.unicorn {
+    background-image: url('/unicorn.png');
+}
+
+button.bat {
+    background-image: url('/bat.png');
+}
